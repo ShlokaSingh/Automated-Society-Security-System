@@ -1,7 +1,4 @@
-# Automated-Society-Security-System
-From Sensor Data to Smart Decisions: How We Built a Contactless Security System with AI
-
-# Automated Smart Security System (Mastek Project Deep Blue Season 6 – Finalist)
+# Automation Society Security Task (Mastek Project Deep Blue Season 6 – Finalist)
 
 An AI-powered, contactless access system designed to automate residential gate entry using face recognition, temperature sensing, QR code validation, and real-time decision logic.
 
@@ -9,7 +6,7 @@ An AI-powered, contactless access system designed to automate residential gate e
 💰 Cash Prize Winner
 
 ## 💡 Problem Statement
-Automated Smart Security System
+Automation Society Security Task
 - Use facial recognition to record visitor entries
 - Log their temperature at the time of entry
 - Present an end-of-day timestamped report
@@ -22,13 +19,10 @@ The original problem statement was simple, but from the very beginning, we saw t
 - pyzbar (QR Code)
 - pyttsx3 / aplay (Audio feedback)
 
-## Our solution
-<img width="818" alt="image" src="https://github.com/user-attachments/assets/95a00737-9e27-4c9d-a95d-e9b19e4731ec" />
-
 ## 📖 Read the full story on Medium  
 https://medium.com/@shloka.singh/from-sensor-data-to-smart-decisions-how-we-built-a-contactless-security-system-with-ai-0544041ab41c
 
-## 👥 Team
+## 👥 Team ASST5
 Shloka Singh  
 Gautam Vaswani  
 Mohit Punjabi  
