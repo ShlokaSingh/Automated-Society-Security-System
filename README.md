@@ -10,6 +10,7 @@ Automation Society Security Task
 - Use facial recognition to record visitor entries
 - Log their temperature at the time of entry
 - Present an end-of-day timestamped report
+
 The original problem statement was simple, but from the very beginning, we saw the potential to build something far more robust. We weren’t just logging visitors—we were reimagining how access could work across the entire society: from residents and staff to guests and vehicles.
 
 ## 🧠 Tech Stack
